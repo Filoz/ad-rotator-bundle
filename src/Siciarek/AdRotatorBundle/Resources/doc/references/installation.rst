@@ -55,7 +55,7 @@ forget to enable SiciarekAdRotatorBundle too:
             new Sonata\DoctrineORMAdminBundle\SonataDoctrineORMAdminBundle(),
 
             // Then add SiciarekAdRotatorBundle
-            new Sonata\AdminBundle\SiciarekAdRotatorBundle(),
+            new Siciarek\AdRotatorBundle\SiciarekAdRotatorBundle(),
             // ...
         );
     }
